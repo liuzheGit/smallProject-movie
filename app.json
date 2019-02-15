@@ -1,0 +1,19 @@
+{
+  "pages":[
+    "pages/home/index",
+    "pages/actor/actor",
+    "pages/search/search",
+    "pages/detail/detail",
+    "pages/rating-star/rating-star",
+    "pages/movie-list/movie-list",
+    "pages/more/more",
+    "pages/rating/rating",
+    "pages/movie-grid/movie-grid"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#19AD19",
+    "navigationBarTitleText": "豆瓣movie",
+    "navigationBarTextStyle":"white"
+  }
+}
